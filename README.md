@@ -2,6 +2,9 @@ Don’t Drown
 
 A simple jump game that is created on p5.editor.
 
+link to the Game
+https://editor.p5js.org/JJFan/present/0ods0JUoG
+
 Summary
 
 It is a game that allows players to figure out how to keep the character alive from drowning. The character tries to climb to the highest place to avoid the rising tide. If he hasn’t climbed to the highest place before the rising tide coming, he will die. Players control the moving of the character, which is LEFT, RIGHT, and JUMP.
